@@ -4,6 +4,12 @@ This is a set of benchmark circuit designed for fault-tolerant circuit and appli
 The goal of this benchmark circuit is to test the ability of compiler and quantum hardware in the early fault-tolerant Era.
 
 
+# What can they evaluate?
+
+We must collect autoconfiguration(How do we apply to different real hardware), we have to do the measurement. The result must be realistic.
+
+What is the implication. 
+
 
 # TODO List--Small benchmark
 
